@@ -160,12 +160,6 @@ http://localhost:5000/swagger/index.html
 
 ---
 
-## 📜 Observações Finais
-
-- O projeto foi enviado em formato ZIP devido ao tamanho dos arquivos e restrições da plataforma de entrega.  
-- Foi utilizada autenticação via string de conexão Oracle fornecida pela FIAP.  
-
----
 
 ## 🏆 Conclusão
 
